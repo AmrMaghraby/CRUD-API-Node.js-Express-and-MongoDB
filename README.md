@@ -11,13 +11,13 @@ Please install MongoDB in your machine if you have not done already. Checkout th
 
 
 ### Our Application ###
-In this tutorial, We will be building a simple Note-Taking application. We will build Rest APIs for creating, listing, editing and deleting a Note.  
+In this small application, We will be building a simple Note-Taking application. We will build Rest APIs for creating, listing, editing and deleting a Note.  
 
 We’ll start by building a simple web server and then move on to configuring the database, building the Note model and different routes for handling all the CRUD operations.  
 
 Finally, we’ll test our REST APIs using Postman.  
 
-We’ll heavily use ES6 features like let, const, arrow functions, promises etc. It’s good to familiarize yourself with these features. I recommend this re-introduction to Javascript to brush up these concepts.  
+We’ll heavily use ES6 features like let, const, arrow functions, promises etc.
 
 ### Creating the Application
 #### 1. Fire up your terminal and create a new folder for the application.
